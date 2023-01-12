@@ -1,4 +1,4 @@
 - import { Provider } from 'react-redux'
+- import { useSelector, useDispatch } from 'react-redux'
 - import { createSlice } from '@reduxjs/toolkit'
 - import { configureStore } from '@reduxjs/toolkit'
-- import { useSelector, useDispatch } from 'react-redux'
