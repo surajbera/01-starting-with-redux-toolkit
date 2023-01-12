@@ -14,7 +14,7 @@ const Counter = () => {
   }
 
   return (
-    <section>
+    <section style={{ textAlign: 'center' }}>
       <h1 className='heading'>Counter App</h1>
       <p>{count}</p>
       <div>
